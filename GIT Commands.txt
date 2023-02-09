@@ -1,0 +1,11 @@
+git init - initialise to store our code
+git status - verify if any updates are done
+git add <filename.extension>
+git add .<dot>
+git rm --cached <filename.extension>
+git config --global user.name <git username><ruby-daisy>
+$ git config --global user.email <rubydaisyantony@gmail.com>
+$ git clone <https-link>
+$ git commit -m"comment"
+$ git push -u origin main
+$ git revert
